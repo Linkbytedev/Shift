@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shift</string>
+    
+    <!-- Auth Screens -->
+    <string name="welcome">Welcome to Shift</string>
+    <string name="tagline">Secure messaging that disappears</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="display_name">Display Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    
+    <!-- Main Screens -->
+    <string name="chats">Chats</string>
+    <string name="friends">Friends</string>
+    <string name="profile">Profile</string>
+    
+    <!-- Chat Screen -->
+    <string name="type_message">Type a message...</string>
+    <string name="send">Send</string>
+    <string name="attach_image">Attach Image</string>
+    <string name="typing">typing...</string>
+    
+    <!-- Message Status -->
+    <string name="sent">Sent</string>
+    <string name="delivered">Delivered</string>
+    <string name="opened">Opened</string>
+    
+    <!-- Self Destruct -->
+    <string name="expires_in">Expires in %1$ds</string>
+    <string name="set_timer">Set Timer</string>
+    <string name="timer_5s">5 seconds</string>
+    <string name="timer_10s">10 seconds</string>
+    <string name="timer_30s">30 seconds</string>
+    <string name="timer_1m">1 minute</string>
+    
+    <!-- Friends -->
+    <string name="add_friend">Add Friend</string>
+    <string name="search_username">Search by username...</string>
+    <string name="friend_requests">Friend Requests</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    
+    <!-- Errors -->
+    <string name="error_generic">Something went wrong</string>
+    <string name="error_auth">Authentication failed</string>
+    <string name="error_network">Network error</string>
+    <string name="error_username_taken">Username already taken</string>
+</resources>

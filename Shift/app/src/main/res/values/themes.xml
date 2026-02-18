@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Theme -->
+    <style name="Theme.SecureMessenger" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+    
+    <!-- Splash Screen Theme -->
+    <style name="Theme.SecureMessenger.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#111318</item>
+        <item name="postSplashScreenTheme">@style/Theme.SecureMessenger</item>
+    </style>
+</resources>

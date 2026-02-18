@@ -1,0 +1,53 @@
+.gradle
+.idea
+*.iml
+.DS_Store
+build/
+captures/
+.externalNativeBuild
+.cxx
+local.properties
+*.apk
+*.aab
+*.dex
+*.class
+*.log
+*.hprof
+
+# Google Services (keep placeholder, ignore actual file)
+# Remove the # below when you add your real google-services.json
+#app/google-services.json
+
+# Keystore files
+*.jks
+*.keystore
+
+# Built application files
+*.ap_
+*.aab
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio files
+*.iml
+.idea/
+.navigation/
+captures/
+output.json
+
+# NDK
+obj/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
